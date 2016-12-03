@@ -1,0 +1,21 @@
+{
+    "name": "nex-otaku/yii2-softdelete",
+    "description": "Basic tools for SoftDelete mechanism.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","soft delete"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nex Otaku",
+            "email": "nex@otaku.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nexotaku\\softdelete\\": ""
+        }
+    }
+}
