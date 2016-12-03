@@ -1,6 +1,6 @@
 {
     "name": "nex-otaku/yii2-softdelete",
-    "description": "Basic tools for SoftDelete mechanism.",
+    "description": "SoftDelete for ActiveRecord.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","soft delete"],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nexotaku\\softdelete\\": ""
+            "nex_otaku\\softdelete\\": ""
         }
     }
 }

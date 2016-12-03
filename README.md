@@ -1,6 +1,6 @@
 Soft Delete
 ===========
-Basic tools for SoftDelete mechanism.
+SoftDelete for ActiveRecord.
 
 Installation
 ------------
