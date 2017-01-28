@@ -13,7 +13,8 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "yii2tech/ar-softdelete": "^1.0",
-        "mdmsoft/yii2-ar-behaviors": "^1.3"
+        "mdmsoft/yii2-ar-behaviors": "^1.3",
+        "nex-otaku/yii2-toolkit": "dev-master"
     },
     "autoload": {
         "psr-4": {
